@@ -1,0 +1,12 @@
+.infoBox{
+    text-align: center;
+    height:auto;
+    /* width: 900px; */
+
+}
+.parentdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
